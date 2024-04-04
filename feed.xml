@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>柳州铁树 Linux 用户协会</title>
+    <link>https://litlug.org.cn/</link>
+    
+    <atom:link href="https://litlug.org.cn/feed.xml" rel="self" type="application/rss+xml"/>
+    
+    <description></description>
+    <pubDate>Thu, 04 Apr 2024 20:57:20 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Wiki@LitLUG 现已上线</title>
+      <link>https://litlug.org.cn/2024/LitLUG-Wiki/</link>
+      <guid>https://litlug.org.cn/2024/LitLUG-Wiki/</guid>
+      <pubDate>Fri, 05 Apr 2024 04:49:48 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://litlug.wiki/&quot;&gt;Wiki@LitLUG&lt;/a&gt;&lt;/strong&gt; 全新网址 &lt;strong&gt;LitLUG.Wiki&lt;/strong&gt; 现已上线。&lt;/p&gt;
+&lt;p&gt;欢迎前来阅读与贡献&lt;/p&gt;
+</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p><strong><a href="http://litlug.wiki/">Wiki@LitLUG</a></strong> 全新网址 <strong>LitLUG.Wiki</strong> 现已上线。</p><p>欢迎前来阅读与贡献</p>]]></content:encoded>
+      
+      
+      
+      
+      <comments>https://litlug.org.cn/2024/LitLUG-Wiki/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
